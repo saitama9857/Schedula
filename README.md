@@ -31,3 +31,5 @@
 ![image](https://user-images.githubusercontent.com/58214386/102253274-4f38c500-3f31-11eb-906d-eff52ce8a7ab.png)
 
 # If you are interested in this project, I will leave a link (in the description) to the video, you can find out everything in detail
+
+https://www.youtube.com/watch?v=Uw-Umzt96uc
